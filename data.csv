@@ -1,0 +1,30 @@
+Date,DayOfWeek,MealsPrepared,MealsSold,MealsWasted,SurplusPercentage,Notes
+20-10-2026,Monday,87,74,13,14.9,
+21-10-2026,Tuesday,82,79,3,3.7,
+22-10-2026,Wednesday,85,71,14,16.5,Slight drizzle in evening
+23-10-2026,Thursday,80,76,4,5,
+24-10-2026,Friday,91,88,3,3.3,Office nearby had a function
+25-10-2026,Saturday,60,47,13,21.7,
+26-10-2026,Sunday,42,38,4,9.5,
+27-10-2026,Monday,88,77,11,12.5,
+28-10-2026,Tuesday,84,80,4,4.8,
+29-10-2026,Wednesday,,,, Data not recorded,
+30-10-2026,Thursday,79,70,9,11.4,
+31-10-2026,Friday,93,91,2,2.2,Month-end payday rush
+01-11-2026,Saturday,58,44,14,24.1,Heavy rain all day
+02-11-2026,Sunday,40,35,5,12.5,
+03-11-2026,Monday,86,75,11,12.8,
+04-11-2026,Tuesday,83,81,2,2.4,
+05-11-2026,Wednesday,88,69,19,21.6,Local college had internal exams
+06-11-2026,Thursday,78,74,4,5.1,
+07-11-2026,Friday,95,90,5,5.3,
+08-11-2026,Saturday,63,51,12,19,
+09-11-2026,Sunday,38,36,2,5.3,
+10-11-2026,Monday,89,78,11,12.4,
+11-11-2026,Tuesday,81,78,3,3.7,Diwali holiday week — slightly lower
+12-11-2026,Wednesday,76,65,11,14.5,
+13-11-2026,Thursday,,,, Vendor unwell — closed half day,
+14-11-2026,Friday,96,89,7,7.3,Pre-weekend rush
+15-11-2026,Saturday,61,49,12,19.7,
+16-11-2026,Sunday,41,37,4,9.8,
+17-11-2026,Monday,90,80,10,11.1,

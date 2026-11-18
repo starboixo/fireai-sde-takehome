@@ -18,12 +18,10 @@ Several free templates exist for restaurant inventory tracking, but they are sta
 
 ## Reference Sources
 
-### Source 1: FSSAI Report on Food Waste in India (2023)
-**Link:** https://www.fssai.gov.in/upload/uploadfiles/files/Guidance_Document_Food_Waste.pdf  
-**Notes:**  
-India wastes approximately 68 million tonnes of food annually, with a significant share originating from small food service establishments due to poor demand estimation. The FSSAI report specifically calls out the gap in affordable waste-reduction tooling for the unorganized food sector. It recommends hyper-local, low-tech interventions as the most viable path to reducing food waste at the grassroots level.
+## Reference Sources
 
-### Source 2: "Reducing Food Waste Through Better Forecasting" — WRI / Champions 12.3 (2019)
-**Link:** https://champions123.org/publication/reducing-food-loss-waste-restaurants/  
-**Notes:**  
-This WRI study across 1,200 restaurants in 12 countries found that simple demand tracking — even just a daily tally — reduced food waste by 26–38% within 3 months. The study emphasizes that the ROI on waste-reduction tools is 7:1 on average, meaning for every ₹1 spent on tracking, ₹7 is saved in raw material costs. Crucially, the study found that the barrier is never cost — it is the perceived complexity of adopting a new tool, reinforcing the need for radical simplicity.
+**Source 1: FSSAI Guidance Document on Food Waste Management (2023)**
+- **Notes:** Highlights that unorganized food service sectors contribute significantly to food loss due to poor demand estimation. Recommends hyper-local, low-tech grassroots tooling to help small vendors optimize preparation and reduce daily kitchen waste.
+
+**Source 2: WRI / Champions 12.3 Restaurant Food Waste Study (2019)**
+- **Notes:** Industry-wide study demonstrating that simple daily demand tracking reduces restaurant food waste by 26–38% within 3 months. Emphasizes that adoption barriers stem from tool complexity rather than cost, reinforcing the need for radical simplicity.
